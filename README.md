@@ -3,7 +3,7 @@
 ## Bioconductor approach to Benchmark Data Repository management and contribution
 
 - current examples
-- innovations needed
+- are any innovations needed?
 
 ## SingleCellExperiment extensions
 

@@ -13,4 +13,6 @@ It should have three slots:
 Issues:
 
 - We need a slot that can be either NULL or matrix, Matrix, HDF5Matrix, DelayedMatrix, etc.
-- We need subsetting operations -- perhaps never subset by genes
+- We need subsetting operations
+- Usually, PCA is done on a subset of genes
+

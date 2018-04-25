@@ -10,6 +10,7 @@
 - Seurat compatibility
 - Internal interoperability assurances
 - Different concepts of representing analysis progression - successively stick results into the 'same' object vs have separate objects for primary and derived results
+- [Create an S4 dimensionality reduction object to store PCA results](DimensionalityReduction.md).
 
 ## Parallelization of 10x workflow
 

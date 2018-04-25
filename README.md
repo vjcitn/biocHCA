@@ -2,14 +2,14 @@
 
 ## Bioconductor approach to Benchmark Data Repository management and contribution
 
-- current examples
-- are any innovations needed?
+- ExperimentHub: current state of art, notable examples
+- Are any innovations needed?
 
 ## SingleCellExperiment extensions
 
 - Seurat compatibility
 - Internal interoperability assurances
-- Concept of separability of data object and analysis object
+- Different concepts of representing analysis progression - successively stick results into the 'same' object vs have separate objects for primary and derived results
 
 ## Parallelization of 10x workflow
 
